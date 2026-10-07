@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://papaya-shortbread-14d405.netlify.app/sitemap.xml
